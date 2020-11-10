@@ -1,7 +1,7 @@
 from tobrot.get_cfg import get_config
 
 
-class Config:
+class Config
     # get a token from @BotFather
     TG_BOT_TOKEN = get_config("1204748326:AAEN1l1XvqprwtUO-WcyeVNkXGbuFCyMqlc", should_prompt=True)
     # The Telegram API things
